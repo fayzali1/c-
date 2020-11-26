@@ -1,0 +1,5 @@
+pineapple 0000 fruit 12
+apple 0001 fruit 10
+banana 0002 fruit 11
+pear 0003 fruit 15
+orange 0004 fruit 16
